@@ -1,6 +1,7 @@
-# 🚀 FitRudrah's Futurecoin (Fitcoin - FTC)https://aistudio.google.com/apps/3584eed2-25a0-43e0-a45c-9f06958ff346?showPreview=true
+# 🚀 FitRudrah's Futurecoin (Fitcoin - FTC)
 
-![Futurecoin][https://futurecoin.in/](https://aistudio.google.com/apps/3584eed2-25a0-43e0-a45c-9f06958ff346?showPreview=true)
+![Futurecoin][https://futurecoin.in/]
+Open-source (https://aistudio.google.com/apps/3584eed2-25a0-43e0-a45c-9f06958ff346?showPreview=true)
 
 ## 🌍 Official Website
 https://futurecoin.in
@@ -49,7 +50,6 @@ Building the world's largest HealthFi ecosystem where fitness, wellness and bloc
 ## 🤝 Contributing
 
 We welcome developers, designers, fitness enthusiasts and blockchain contributors from around the world.
-
 ---
 
 ## 📧 Contact
@@ -67,3 +67,4 @@ https://futurecoin.in
 **Health Before Wealth.**
 
 **Move More • Earn More • Live Better**
+open-source https://aistudio.google.com/apps/3584eed2-25a0-43e0-a45c-9f06958ff346?showPreview=true
