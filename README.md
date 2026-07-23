@@ -1,4 +1,4 @@
-# 🚀 FitRudrah's Futurecoin (Fitcoin - FTC)
+# 🚀 FitRudrah's Futurecoin (Fitcoin - FTC)https://aistudio.google.com/apps/3584eed2-25a0-43e0-a45c-9f06958ff346?showPreview=true
 
 ![Futurecoin][https://futurecoin.in/](https://aistudio.google.com/apps/3584eed2-25a0-43e0-a45c-9f06958ff346?showPreview=true)
 
